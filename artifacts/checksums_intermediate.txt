@@ -1,0 +1,1 @@
+db6bbc8d7d213135d48417426183452baaa776fd138ba7fe4457749c2b10121b  ./target/wasm32-unknown-unknown/release/lp_staking.wasm
