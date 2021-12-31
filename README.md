@@ -1,5 +1,5 @@
 # LP Staking Contracts
-This repository contains the smart contract for the LP staking and single staking offerings.                                                   |
+This repository contains the smart contract for the LP staking and single staking offerings.
 
 ## Development
 
